@@ -1,0 +1,3 @@
+[console_scripts]
+scan-live-traffic = network_anomaly_detector.predict_live:main
+train-anomaly-model = network_anomaly_detector.model_trainer:main

@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: network_anomaly_detector
+Version: 0.1
+Summary: A pip-installable app to detect network traffic anomalies using a pretrained ML model.
+Author: Salman
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Requires-Dist: scapy
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: summary
