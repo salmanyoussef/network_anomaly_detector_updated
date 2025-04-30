@@ -1,0 +1,37 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.venv/
+env/
+venv/
+
+# OS-specific files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Jupyter and notebook checkpoints
+.ipynb_checkpoints
+
+# Serialized models and output files
+models/
+*.pkl
+*.joblib
+
+# Data and traffic captures
+*.csv
+*.pcap
+*.argus
+*.json
+output*
+extracted_features*
+live_traffic*
+
+# IDE and VS Code
+.vscode/
+*.code-workspace
